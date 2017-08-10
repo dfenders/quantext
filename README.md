@@ -1,4 +1,4 @@
-# quantext
+# Quantext
 
 ## FAQs
 
