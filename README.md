@@ -1,1 +1,5 @@
 # quantext
+
+## FAQs
+
+Coming soon...
